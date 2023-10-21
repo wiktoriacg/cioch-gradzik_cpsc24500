@@ -1,3 +1,10 @@
+/*
+ * Wiktoria Cioch-Gradzik
+ * 10/19/2023
+ * FA23-CPSC-24500-002
+ * This program is taking the number of story and creating a new story with replaced words
+ * from Array lists
+ */
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Random;
